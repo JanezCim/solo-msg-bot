@@ -12,6 +12,8 @@ Insert inside
     export DISCORD_GUILD="<insert_discord_guild_aka_server"
     export DISCORD_CHANNEL="<insert_discord_channel>"
 
+you can get your bot token from https://discord.com/developers/applications
+
 Then source it and run
 
     source env.sh
